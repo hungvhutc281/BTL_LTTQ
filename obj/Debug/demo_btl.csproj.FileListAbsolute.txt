@@ -1,0 +1,73 @@
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\bin\Debug\demo_btl.exe.config
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\bin\Debug\demo_btl.exe
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\bin\Debug\demo_btl.pdb
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\obj\Debug\demo_btl.csproj.AssemblyReference.cache
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\obj\Debug\demo_btl.Form1.resources
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\obj\Debug\demo_btl.Properties.Resources.resources
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\obj\Debug\demo_btl.csproj.GenerateResource.cache
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\obj\Debug\demo_btl.csproj.CoreCompileInputs.cache
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\obj\Debug\demo_btl.exe
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\obj\Debug\demo_btl.pdb
+D:\C SHARP\code\BTL\demo_btl\bin\Debug\demo_btl.exe.config
+D:\C SHARP\code\BTL\demo_btl\bin\Debug\demo_btl.exe
+D:\C SHARP\code\BTL\demo_btl\bin\Debug\demo_btl.pdb
+D:\C SHARP\code\BTL\demo_btl\obj\Debug\demo_btl.csproj.AssemblyReference.cache
+D:\C SHARP\code\BTL\demo_btl\obj\Debug\demo_btl.Form1.resources
+D:\C SHARP\code\BTL\demo_btl\obj\Debug\demo_btl.Properties.Resources.resources
+D:\C SHARP\code\BTL\demo_btl\obj\Debug\demo_btl.csproj.GenerateResource.cache
+D:\C SHARP\code\BTL\demo_btl\obj\Debug\demo_btl.csproj.CoreCompileInputs.cache
+D:\C SHARP\code\BTL\demo_btl\obj\Debug\demo_btl.exe
+D:\C SHARP\code\BTL\demo_btl\obj\Debug\demo_btl.pdb
+D:\C SHARP\code\BTL\demo_btl\bin\Debug\FontAwesome.Sharp.dll
+D:\C SHARP\code\BTL\demo_btl\obj\Debug\demo_btl.Form2.resources
+D:\C SHARP\code\BTL\demo_btl\obj\Debug\demo_btl.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\demo_btl\bin\Debug\demo_btl.exe.config
+C:\Users\LENOVO\Downloads\demo_btl\bin\Debug\demo_btl.exe
+C:\Users\LENOVO\Downloads\demo_btl\bin\Debug\demo_btl.pdb
+C:\Users\LENOVO\Downloads\demo_btl\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LENOVO\Downloads\demo_btl\obj\Debug\demo_btl.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\demo_btl\obj\Debug\demo_btl.Form1.resources
+C:\Users\LENOVO\Downloads\demo_btl\obj\Debug\demo_btl.Form2.resources
+C:\Users\LENOVO\Downloads\demo_btl\obj\Debug\demo_btl.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\demo_btl\obj\Debug\demo_btl.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\demo_btl\obj\Debug\demo_btl.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\demo_btl\obj\Debug\demo_btl.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\demo_btl\obj\Debug\demo_btl.exe
+C:\Users\LENOVO\Downloads\demo_btl\obj\Debug\demo_btl.pdb
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\bin\Debug\FontAwesome.Sharp.dll
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\obj\Debug\demo_btl.Form2.resources
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl\obj\Debug\demo_btl.csproj.CopyComplete
+D:\C SHARP\code\demo_btl\bin\Debug\demo_btl.exe.config
+D:\C SHARP\code\demo_btl\bin\Debug\demo_btl.exe
+D:\C SHARP\code\demo_btl\bin\Debug\demo_btl.pdb
+D:\C SHARP\code\demo_btl\bin\Debug\FontAwesome.Sharp.dll
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.csproj.AssemblyReference.cache
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.Login.resources
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.Properties.Resources.resources
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.csproj.GenerateResource.cache
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.csproj.CoreCompileInputs.cache
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.csproj.CopyComplete
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.exe
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.pdb
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\bin\Debug\demo_btl.exe.config
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\bin\Debug\demo_btl.exe
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\bin\Debug\demo_btl.pdb
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\bin\Debug\FontAwesome.Sharp.dll
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\obj\Debug\demo_btl.csproj.AssemblyReference.cache
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\obj\Debug\demo_btl.Form1.resources
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\obj\Debug\demo_btl.Login.resources
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\obj\Debug\demo_btl.Properties.Resources.resources
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\obj\Debug\demo_btl.csproj.GenerateResource.cache
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\obj\Debug\demo_btl.csproj.CoreCompileInputs.cache
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\obj\Debug\demo_btl.csproj.CopyComplete
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\obj\Debug\demo_btl.exe
+E:\D\hoc_code_Q\ki_5\LTTQ\BTL\demo_btl (3)\obj\Debug\demo_btl.pdb
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.Main.resources
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.HangSanXuat.resources
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.NuocSanXuat.resources
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.QuanLyPhim.resources
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.TheLoai.resources
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.LichChieu.resources
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.ve.resources
+D:\C SHARP\code\demo_btl\bin\Debug\Guna.UI2.dll
+D:\C SHARP\code\demo_btl\obj\Debug\demo_btl.Form_quenmk.resources
